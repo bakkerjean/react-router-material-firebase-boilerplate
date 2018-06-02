@@ -9,3 +9,14 @@ React Router 4 + Material UI v1 + Firebase boilerplate with user dashboard and a
 3. `npm install`
 4. Include your credentials to /src/firebase/firebase.js 
 5. `npm start`
+
+### Features
+
+- sign up
+- sign in
+- private routes
+- user dashboard
+- change password
+- forgot password
+- set user avatar
+- set user display name
