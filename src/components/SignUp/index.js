@@ -113,7 +113,7 @@ class SignUpForm extends Component {
               /> <br /><br />
 
         <TextField
-          value={passwordOne}
+          value={passwordTwo}
           onChange={event => this.setState(updateByPropertyName('passwordTwo', event.target.value))}
           type="password"
           placeholder="Confirm Password"
