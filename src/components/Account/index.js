@@ -107,7 +107,7 @@ class AccountPage extends React.Component {
               </div>
             }
             title="User information"
-            subheader="You can modify you password, avatar and username"
+            subheader="You can modify your password, avatar and username"
           />
         <CardContent>
         <Typography gutterBottom variant="headline" component="h2">
